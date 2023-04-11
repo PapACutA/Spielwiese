@@ -2,23 +2,23 @@
 Repository zum erklären und üben des GitHub Workflow
 
 # Wichtige Begriffe
-## Repository
+### Repository
 Das **Repository (Repo)** ist die Sammlung aller verwalteten Dateien. Sozusagen das Projekt.
-## Branch
+### Branch
 Ein **Branch** ist ein Abzweig innerhalb des Repositories. Branches bestehen paralell zum *main* branch dem Hauptpfad des Repositories. Innerhalb eines branch können Änderungen vorgenommen werden, ohne dass der Hauptpfad von diesen betroffen ist. Ist die arbeit an einem Branch beendet kann dieser in den Hauptpfad integriert werden. Somit bleibt die integrität des Hauptpfades bestehen.
-## Commit
+### Commit
 Ein **Commit** ist die Aufnahme/Bekanntmachung der Änderungen in das Repo/den Branch. Änderungen die nicht commited wurden sind anderen nutzern nicht bekannt werden bei einem Update der lokalen Kopie verworfen. Wichtiger Bestandteil eines **Commits** ist eine kurze aber Ausagekräftige Beschreibung.
-## Pull Request
+### Pull Request
 Der **Pull Request** ist die Anfrage zur Übernahme der Änderungen in den Hauptpfad. Dieser dient auch als Grundlage zur diskussion über die vrogeschlagenen Änderungen. Der **Pull Request** muss nicht zwangsläufig "fertig" sein.
-## merge
+### merge
 **mergen** ist das zusammenführen zweier Branches, meist eines Arbeitsbranch in den Hauptpfad.
-## Clone
+### Clone
 Ein **Clone** ist eine lokale Kopie eines Repositories.
-## Fork
+### Fork
 Ein **Fork** ist eine Abspaltung einens Repositories in ein eigenständiges Repository. Meist werden **Forks** genutzt um entweder einem Repository beizutragen für welches man keine schreibrechte hat, oder um ein Repositorie in eine andere Richtung weiter zu entwickeln als es für das Quell-Repo vorgesehen ist.
-## push
+### push
 **pushen** ist das hochladen der Änderungen in der lokalen Kopie auf das Repository.
-## fetch
+### fetch
 **fetchen** ist das updaten der lokalen Kopie auf den Stand des Repositories.
 
 # Der Workflow
