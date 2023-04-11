@@ -26,5 +26,6 @@ In der Übung wird davon ausgegangen dass bereits ein GitHub Konto vorhanden ist
 **Schritt 10** Lösche den nicht mehr benötigten Branch.
 
 # Absolventen
-|Name |Datum  |
-|-----|-------|
+|Name    |Datum     |
+|:------:|:--------:|
+|PapACutA|11.04.2023|
