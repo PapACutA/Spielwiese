@@ -29,3 +29,4 @@ In der Übung wird davon ausgegangen dass bereits ein GitHub Konto vorhanden ist
 |Name    |Datum     |
 |:------:|:--------:|
 |PapACutA|11.04.2023|
+|HaGrue|11.04.2023|
